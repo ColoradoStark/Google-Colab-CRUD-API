@@ -22,4 +22,7 @@ Built using Flask, Jsonify, JSON, NGROK.io and Raw Python
 - A real database
 - Error Handling
 - Security
+- Logging
+- Authentication
+- Queries
 - and a lot more
