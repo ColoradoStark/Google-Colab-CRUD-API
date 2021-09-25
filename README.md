@@ -24,5 +24,5 @@ Built using Flask, Jsonify, JSON, NGROK.io and Raw Python
 - Security
 - Logging
 - Authentication
-- Queries
+- Query
 - and a lot more
