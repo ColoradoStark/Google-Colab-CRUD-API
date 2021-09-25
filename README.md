@@ -10,4 +10,4 @@ Built using Flask, Jsonify, JSON, NGROK.io and Raw Python
 
 - Endpoint that you can call over the web
 - A Functioning Data Structure
-- Writes all data to a disk (on every operation)
+- Backs up data to the temporary local hard drive provided in the Collab notebook
