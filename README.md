@@ -19,7 +19,6 @@ Built using Flask, Jsonify, JSON, NGROK.io and Raw Python
 
 ## missing:
 
-- A real database
 - Error Handling
 - Security
 - Logging
